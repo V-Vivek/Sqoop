@@ -136,7 +136,7 @@ sqoop import \
 --password cloudera
 ```
 
-There are 4 things that we can see in the output
+### There are 4 things that we can see in the output by default
 
 - Data is selected with “Select” command
 - Min & Max query is applied
