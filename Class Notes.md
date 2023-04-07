@@ -42,6 +42,10 @@ Sqoop helped to transfer the large volume of data stored in the RDBMS to Hadoop.
 
 The operations is Sqoop are user friendly. Sqoop uses CLI to process commands given by the user.  Sqoop also used Java APIs to interact with the users. Sqoop only performs the import and export of data based on the commands given by the users. Sqoop can’t do the aggregation of data. 
 
+### Sqoop installation in Docker
+- Follow instructions in following link
+https://github.com/kasipavankumar/sqoop-docker/pkgs/container/sqoop-docker
+
 ### Sqoop installation on EC2
 
 - Install docker in EC2
