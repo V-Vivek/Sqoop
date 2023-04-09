@@ -232,7 +232,7 @@ describe categories;
 If a table is not having a primary key it can be imported by 2 ways:
 
 - By using split-by argument
-- By using -m1, i.e., using only 1 mapper task. In this the table will not get split into parts.
+- By using ```--m 1```, i.e., using only 1 mapper task. In this the table will not get split into parts.
 
 Let’s create a table in retail_db
 
